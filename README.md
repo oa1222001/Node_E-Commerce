@@ -12,9 +12,9 @@ The E-Commerce Node.js App provides the following key functionalities:
 
 2. **Optimized Database Interaction**: Database interactions are optimized using Mongoose, resulting in faster query response times.
 
-2. **Security Enhancement**: Security is strengthened through Helmet and JWT, providing advanced protection against common vulnerabilities.
+3. **Security Enhancement**: Security is strengthened through Helmet and JWT, providing advanced protection against common vulnerabilities.
 
-2. **Deployment on Heroku**: The platform has been deployed on Heroku to ensure continuous uptime and a superior user experience.
+4. **Deployment on Heroku**: The platform has been deployed on Heroku to ensure continuous uptime and a superior user experience.
 
 ## Technologies Used
 
