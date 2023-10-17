@@ -60,6 +60,6 @@ Contributions to the app are welcome and encouraged. If you wish to contribute, 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding Instapound Application, please feel free to reach out:
+If you have any questions, suggestions, or feedback regarding the app, please feel free to reach out:
 
 - Omar Allam: [Email](mailto:oa1222001@gmail.com), [GitHub](https://github.com/oa1222001)
